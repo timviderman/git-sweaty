@@ -26596,5 +26596,31 @@
     "start_date_local": "2026-03-02T04:44:44Z",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-03-03",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17585661815",
+    "moving_time": 1545.0,
+    "name": "Morning Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-03-03T04:46:54Z",
+    "type": "Yoga",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-03",
+    "distance": 9710.1,
+    "elevation_gain": 129.0,
+    "id": "17586308439",
+    "moving_time": 2985.0,
+    "name": "Hammer the Hill",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-03T05:26:58Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
