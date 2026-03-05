@@ -26661,5 +26661,31 @@
     "start_date_local": "2026-03-04T05:24:35Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-05",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17610765451",
+    "moving_time": 1928.0,
+    "name": "Morning Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-03-05T04:16:17Z",
+    "type": "Yoga",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-05",
+    "distance": 14867.2,
+    "elevation_gain": 29.0,
+    "id": "17611540006",
+    "moving_time": 4241.0,
+    "name": "Menaces of Mill Lake",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-05T05:03:56Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
