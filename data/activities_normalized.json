@@ -26700,5 +26700,44 @@
     "start_date_local": "2026-03-06T07:52:52Z",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-03-06",
+    "distance": 7084.2,
+    "elevation_gain": 25.0,
+    "id": "17627018439",
+    "moving_time": 5007.0,
+    "name": "Dorris Leeper Trail",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-03-06T11:04:21Z",
+    "type": "TrailRun",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-07",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17633348443",
+    "moving_time": 1157.0,
+    "name": "Morning Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-03-07T04:53:19Z",
+    "type": "Yoga",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-07",
+    "distance": 22564.9,
+    "elevation_gain": 139.0,
+    "id": "17635326127",
+    "moving_time": 7085.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-07T05:35:10Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
