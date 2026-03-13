@@ -26869,5 +26869,70 @@
     "start_date_local": "2026-03-12T05:26:46Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-12",
+    "distance": 8062.1,
+    "elevation_gain": 0.0,
+    "id": "17701603434",
+    "moving_time": 2494.0,
+    "name": "Afternoon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-12T16:19:57Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-12",
+    "distance": 16.1,
+    "elevation_gain": 0.0,
+    "id": "17701637571",
+    "moving_time": 10.0,
+    "name": "Afternoon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-12T16:10:00Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-12",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17701879252",
+    "moving_time": 1579.0,
+    "name": "Afternoon Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-03-12T17:12:29Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-13",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17705468602",
+    "moving_time": 2439.0,
+    "name": "Morning Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-03-13T04:16:07Z",
+    "type": "Yoga",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-13",
+    "distance": 14908.9,
+    "elevation_gain": 79.0,
+    "id": "17706035077",
+    "moving_time": 4583.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-13T05:00:36Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
