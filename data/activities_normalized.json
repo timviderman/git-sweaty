@@ -27012,5 +27012,31 @@
     "start_date_local": "2026-03-15T05:34:40Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-17",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17750986785",
+    "moving_time": 1735.0,
+    "name": "Morning Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-03-17T04:04:45Z",
+    "type": "Yoga",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-17",
+    "distance": 12999.5,
+    "elevation_gain": 30.0,
+    "id": "17751625939",
+    "moving_time": 3872.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-17T04:48:02Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
