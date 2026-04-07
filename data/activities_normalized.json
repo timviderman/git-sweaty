@@ -27597,5 +27597,31 @@
     "start_date_local": "2026-04-05T08:28:15Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-07",
+    "distance": 17241.3,
+    "elevation_gain": 95.0,
+    "id": "18014069569",
+    "moving_time": 5244.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-07T09:29:16Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-07",
+    "distance": 560.9,
+    "elevation_gain": 2.0,
+    "id": "18014238574",
+    "moving_time": 243.0,
+    "name": "Little jog with Seymour dog",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-07T11:07:34Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
