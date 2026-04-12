@@ -27740,5 +27740,18 @@
     "start_date_local": "2026-04-11T06:02:03Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-12",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18075638099",
+    "moving_time": 1811.0,
+    "name": "Morning Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-04-12T04:26:39Z",
+    "type": "Yoga",
+    "year": 2026
   }
 ]
