@@ -27753,5 +27753,18 @@
     "start_date_local": "2026-04-12T04:26:39Z",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-04-12",
+    "distance": 6458.7,
+    "elevation_gain": 0.0,
+    "id": "18082269374",
+    "moving_time": 1980.0,
+    "name": "Lunch Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-12T11:35:53Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
