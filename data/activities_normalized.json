@@ -27883,5 +27883,31 @@
     "start_date_local": "2026-04-17T04:47:54Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-18",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18154897953",
+    "moving_time": 2325.0,
+    "name": "Morning Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-04-18T04:46:15Z",
+    "type": "Yoga",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-18",
+    "distance": 29298.8,
+    "elevation_gain": 158.0,
+    "id": "18157804448",
+    "moving_time": 9317.0,
+    "name": "Cardinals, Close Call Cars, Cobwebs and Critters",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-18T06:06:52Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
