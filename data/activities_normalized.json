@@ -27935,5 +27935,31 @@
     "start_date_local": "2026-04-19T05:29:28Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-20",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18181377218",
+    "moving_time": 3015.0,
+    "name": "Morning Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-04-20T04:25:05Z",
+    "type": "Yoga",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-20",
+    "distance": 10206.6,
+    "elevation_gain": 63.0,
+    "id": "18181937508",
+    "moving_time": 3125.0,
+    "name": "GI Distress run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-20T05:24:25Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
