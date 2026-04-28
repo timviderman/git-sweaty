@@ -15147,6 +15147,13 @@
       "subtype": "Run",
       "type": "Run",
       "year": 2026
+    },
+    {
+      "date": "2026-04-28",
+      "hour": 9,
+      "subtype": "Hike",
+      "type": "Hike",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -31648,6 +31655,17 @@
       }
     },
     "2026": {
+      "Hike": {
+        "2026-04-28": {
+          "activity_ids": [
+            "18293019767"
+          ],
+          "count": 1,
+          "distance": 3880.8,
+          "elevation_gain": 171.0,
+          "moving_time": 3932.0
+        }
+      },
       "Ride": {
         "2026-02-23": {
           "activity_ids": [
@@ -33377,7 +33395,7 @@
       }
     }
   },
-  "generated_at": "2026-04-27T16:44:40.910749+00:00",
+  "generated_at": "2026-04-28T16:56:38.564051+00:00",
   "other_bucket": "OtherSports",
   "repo": "timviderman/git-sweaty",
   "source": "strava",
