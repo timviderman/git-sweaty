@@ -15154,6 +15154,20 @@
       "subtype": "Hike",
       "type": "Hike",
       "year": 2026
+    },
+    {
+      "date": "2026-04-28",
+      "hour": 17,
+      "subtype": "Hike",
+      "type": "Hike",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-29",
+      "hour": 10,
+      "subtype": "Run",
+      "type": "Run",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -31658,12 +31672,13 @@
       "Hike": {
         "2026-04-28": {
           "activity_ids": [
-            "18293019767"
+            "18293019767",
+            "18298211931"
           ],
-          "count": 1,
-          "distance": 3880.8,
-          "elevation_gain": 171.0,
-          "moving_time": 3932.0
+          "count": 2,
+          "distance": 6254.3,
+          "elevation_gain": 206.0,
+          "moving_time": 5703.0
         }
       },
       "Ride": {
@@ -32546,6 +32561,15 @@
           "distance": 14928.9,
           "elevation_gain": 89.0,
           "moving_time": 4706.0
+        },
+        "2026-04-29": {
+          "activity_ids": [
+            "18307983083"
+          ],
+          "count": 1,
+          "distance": 13509.7,
+          "elevation_gain": 224.0,
+          "moving_time": 4818.0
         }
       },
       "TrailRun": {
@@ -33395,7 +33419,7 @@
       }
     }
   },
-  "generated_at": "2026-04-28T16:56:38.564051+00:00",
+  "generated_at": "2026-04-29T16:45:10.370747+00:00",
   "other_bucket": "OtherSports",
   "repo": "timviderman/git-sweaty",
   "source": "strava",
