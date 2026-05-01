@@ -15189,6 +15189,27 @@
       "subtype": "Run",
       "type": "Run",
       "year": 2026
+    },
+    {
+      "date": "2026-04-30",
+      "hour": 12,
+      "subtype": "Hike",
+      "type": "Hike",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-30",
+      "hour": 18,
+      "subtype": "Kayaking",
+      "type": "Kayaking",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-01",
+      "hour": 9,
+      "subtype": "Run",
+      "type": "Run",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -31710,6 +31731,26 @@
           "distance": 5074.6,
           "elevation_gain": 135.0,
           "moving_time": 4916.0
+        },
+        "2026-04-30": {
+          "activity_ids": [
+            "18323646781"
+          ],
+          "count": 1,
+          "distance": 6277.4,
+          "elevation_gain": 308.0,
+          "moving_time": 7087.0
+        }
+      },
+      "Kayaking": {
+        "2026-04-30": {
+          "activity_ids": [
+            "18325771922"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4200.0
         }
       },
       "Ride": {
@@ -32601,6 +32642,15 @@
           "distance": 13410.7,
           "elevation_gain": 219.0,
           "moving_time": 4801.0
+        },
+        "2026-05-01": {
+          "activity_ids": [
+            "18333910121"
+          ],
+          "count": 1,
+          "distance": 11272.1,
+          "elevation_gain": 199.0,
+          "moving_time": 4375.0
         }
       },
       "TrailRun": {
@@ -33459,7 +33509,7 @@
       }
     }
   },
-  "generated_at": "2026-04-30T16:24:06.418476+00:00",
+  "generated_at": "2026-05-01T16:00:18.390318+00:00",
   "other_bucket": "OtherSports",
   "repo": "timviderman/git-sweaty",
   "source": "strava",
@@ -33475,6 +33525,10 @@
     "Hike": {
       "accent": "#d6ff6b",
       "label": "Hike"
+    },
+    "Kayaking": {
+      "accent": "#00f5d4",
+      "label": "Kayaking"
     },
     "Pickleball": {
       "accent": "#00f5d4",
@@ -33513,6 +33567,7 @@
     "Elliptical",
     "HighIntensityIntervalTraining",
     "Hike",
+    "Kayaking",
     "Pickleball",
     "Ride",
     "Run",

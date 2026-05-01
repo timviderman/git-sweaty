@@ -28208,5 +28208,44 @@
     "start_date_local": "2026-04-30T09:43:29Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-30",
+    "distance": 6277.4,
+    "elevation_gain": 308.0,
+    "id": "18323646781",
+    "moving_time": 7087.0,
+    "name": "Lunch Hike",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-04-30T12:28:45Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-30",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18325771922",
+    "moving_time": 4200.0,
+    "name": "Gorge Underground Kayaking",
+    "raw_activity_type": "Kayaking",
+    "raw_type": "Kayaking",
+    "start_date_local": "2026-04-30T18:27:04Z",
+    "type": "Kayaking",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-01",
+    "distance": 11272.1,
+    "elevation_gain": 199.0,
+    "id": "18333910121",
+    "moving_time": 4375.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-01T09:05:22Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
