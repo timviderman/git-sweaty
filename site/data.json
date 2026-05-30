@@ -15574,6 +15574,20 @@
       "subtype": "Elliptical",
       "type": "Elliptical",
       "year": 2026
+    },
+    {
+      "date": "2026-05-29",
+      "hour": 16,
+      "subtype": "Elliptical",
+      "type": "Elliptical",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-30",
+      "hour": 7,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -32096,12 +32110,13 @@
         },
         "2026-05-29": {
           "activity_ids": [
-            "18700253272"
+            "18700253272",
+            "18707127653"
           ],
-          "count": 1,
+          "count": 2,
           "distance": 0.0,
           "elevation_gain": 0.0,
-          "moving_time": 3644.0
+          "moving_time": 5524.0
         }
       },
       "Hike": {
@@ -32164,6 +32179,15 @@
           "distance": 32208.0,
           "elevation_gain": 130.0,
           "moving_time": 4387.0
+        },
+        "2026-05-30": {
+          "activity_ids": [
+            "18716034807"
+          ],
+          "count": 1,
+          "distance": 58664.9,
+          "elevation_gain": 182.0,
+          "moving_time": 7887.0
         }
       },
       "Run": {
@@ -34319,7 +34343,7 @@
       }
     }
   },
-  "generated_at": "2026-05-29T18:13:45.282413+00:00",
+  "generated_at": "2026-05-30T16:07:30.898666+00:00",
   "other_bucket": "OtherSports",
   "repo": "timviderman/git-sweaty",
   "source": "strava",
