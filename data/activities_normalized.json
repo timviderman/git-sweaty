@@ -29027,5 +29027,44 @@
     "start_date_local": "2026-06-01T05:21:34Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-01",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18747442325",
+    "moving_time": 3134.0,
+    "name": "Afternoon Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-06-01T16:18:22Z",
+    "type": "Yoga",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-02",
+    "distance": 1241.1,
+    "elevation_gain": 11.0,
+    "id": "18752563468",
+    "moving_time": 1064.0,
+    "name": "Morning Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-06-02T04:34:58Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-02",
+    "distance": 48351.8,
+    "elevation_gain": 269.0,
+    "id": "18753949962",
+    "moving_time": 6688.0,
+    "name": "Morning Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-02T05:01:30Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
