@@ -29066,5 +29066,31 @@
     "start_date_local": "2026-06-02T05:01:30Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-02",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18760976866",
+    "moving_time": 2502.0,
+    "name": "Afternoon Workout",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-06-02T15:16:32Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-03",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18767610416",
+    "moving_time": 2728.0,
+    "name": "Morning Elliptical",
+    "raw_activity_type": "Elliptical",
+    "raw_type": "Elliptical",
+    "start_date_local": "2026-06-03T05:33:56Z",
+    "type": "Elliptical",
+    "year": 2026
   }
 ]
