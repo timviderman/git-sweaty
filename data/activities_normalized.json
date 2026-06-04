@@ -29092,5 +29092,70 @@
     "start_date_local": "2026-06-03T05:33:56Z",
     "type": "Elliptical",
     "year": 2026
+  },
+  {
+    "date": "2026-06-03",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18775599430",
+    "moving_time": 1278.0,
+    "name": "Afternoon Elliptical",
+    "raw_activity_type": "Elliptical",
+    "raw_type": "Elliptical",
+    "start_date_local": "2026-06-03T16:41:40Z",
+    "type": "Elliptical",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-03",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18775818624",
+    "moving_time": 1534.0,
+    "name": "Afternoon Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-06-03T17:03:53Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-04",
+    "distance": 1615.3,
+    "elevation_gain": 13.0,
+    "id": "18780719889",
+    "moving_time": 1363.0,
+    "name": "Morning Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-06-04T04:48:59Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-04",
+    "distance": 3790.1,
+    "elevation_gain": 21.0,
+    "id": "18780979421",
+    "moving_time": 1203.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-04T05:23:48Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-04",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18781334564",
+    "moving_time": 1646.0,
+    "name": "Morning Elliptical",
+    "raw_activity_type": "Elliptical",
+    "raw_type": "Elliptical",
+    "start_date_local": "2026-06-04T05:49:41Z",
+    "type": "Elliptical",
+    "year": 2026
   }
 ]
