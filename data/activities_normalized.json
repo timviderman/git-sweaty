@@ -29196,5 +29196,44 @@
     "start_date_local": "2026-06-05T05:29:35Z",
     "type": "Elliptical",
     "year": 2026
+  },
+  {
+    "date": "2026-06-05",
+    "distance": 1615.4,
+    "elevation_gain": 13.0,
+    "id": "18802388377",
+    "moving_time": 1417.0,
+    "name": "Evening Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-06-05T18:23:07Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-06",
+    "distance": 54945.4,
+    "elevation_gain": 439.0,
+    "id": "18809392429",
+    "moving_time": 7425.0,
+    "name": "Morning Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-06T06:14:35Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-06",
+    "distance": 1377.5,
+    "elevation_gain": 10.0,
+    "id": "18810035276",
+    "moving_time": 1159.0,
+    "name": "Morning Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-06-06T08:38:42Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
