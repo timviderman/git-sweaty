@@ -15924,6 +15924,27 @@
       "subtype": "Run",
       "type": "Run",
       "year": 2026
+    },
+    {
+      "date": "2026-06-20",
+      "hour": 8,
+      "subtype": "Walk",
+      "type": "Walk",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-20",
+      "hour": 6,
+      "subtype": "Run",
+      "type": "Run",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-20",
+      "hour": 9,
+      "subtype": "Walk",
+      "type": "Walk",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -33813,6 +33834,15 @@
           "distance": 11305.2,
           "elevation_gain": 168.0,
           "moving_time": 4055.0
+        },
+        "2026-06-20": {
+          "activity_ids": [
+            "18996648581"
+          ],
+          "count": 1,
+          "distance": 22646.1,
+          "elevation_gain": 104.0,
+          "moving_time": 7797.0
         }
       },
       "TrailRun": {
@@ -33973,6 +34003,16 @@
           "distance": 2763.0,
           "elevation_gain": 12.0,
           "moving_time": 2918.0
+        },
+        "2026-06-20": {
+          "activity_ids": [
+            "18996648234",
+            "18996935850"
+          ],
+          "count": 2,
+          "distance": 1307.2,
+          "elevation_gain": 7.0,
+          "moving_time": 1223.0
         }
       },
       "WeightTraining": {
@@ -35073,7 +35113,7 @@
       }
     }
   },
-  "generated_at": "2026-06-19T17:21:24.001022+00:00",
+  "generated_at": "2026-06-20T16:23:35.196771+00:00",
   "other_bucket": "OtherSports",
   "repo": "timviderman/git-sweaty",
   "source": "strava",
