@@ -15966,6 +15966,27 @@
       "subtype": "Elliptical",
       "type": "Elliptical",
       "year": 2026
+    },
+    {
+      "date": "2026-06-22",
+      "hour": 16,
+      "subtype": "Walk",
+      "type": "Walk",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-23",
+      "hour": 5,
+      "subtype": "Run",
+      "type": "Run",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-23",
+      "hour": 9,
+      "subtype": "Walk",
+      "type": "Walk",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -33882,6 +33903,15 @@
           "distance": 5259.9,
           "elevation_gain": 31.0,
           "moving_time": 1836.0
+        },
+        "2026-06-23": {
+          "activity_ids": [
+            "19033310588"
+          ],
+          "count": 1,
+          "distance": 11286.3,
+          "elevation_gain": 176.0,
+          "moving_time": 3912.0
         }
       },
       "TrailRun": {
@@ -34052,6 +34082,24 @@
           "distance": 1307.2,
           "elevation_gain": 7.0,
           "moving_time": 1223.0
+        },
+        "2026-06-22": {
+          "activity_ids": [
+            "19027732472"
+          ],
+          "count": 1,
+          "distance": 1611.4,
+          "elevation_gain": 2.0,
+          "moving_time": 2083.0
+        },
+        "2026-06-23": {
+          "activity_ids": [
+            "19036590034"
+          ],
+          "count": 1,
+          "distance": 3499.6,
+          "elevation_gain": 4.0,
+          "moving_time": 5040.0
         }
       },
       "WeightTraining": {
@@ -35161,7 +35209,7 @@
       }
     }
   },
-  "generated_at": "2026-06-22T18:49:46.270568+00:00",
+  "generated_at": "2026-06-23T17:20:06.708806+00:00",
   "other_bucket": "OtherSports",
   "repo": "timviderman/git-sweaty",
   "source": "strava",
