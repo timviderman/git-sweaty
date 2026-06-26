@@ -16008,6 +16008,20 @@
       "subtype": "Run",
       "type": "Run",
       "year": 2026
+    },
+    {
+      "date": "2026-06-25",
+      "hour": 16,
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-26",
+      "hour": 5,
+      "subtype": "Run",
+      "type": "Run",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -33951,6 +33965,15 @@
           "distance": 8071.1,
           "elevation_gain": 43.0,
           "moving_time": 2589.0
+        },
+        "2026-06-26": {
+          "activity_ids": [
+            "19071935342"
+          ],
+          "count": 1,
+          "distance": 8071.1,
+          "elevation_gain": 0.0,
+          "moving_time": 2488.0
         }
       },
       "TrailRun": {
@@ -34241,6 +34264,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2584.0
+        },
+        "2026-06-25": {
+          "activity_ids": [
+            "19066746492"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2586.0
         }
       },
       "Workout": {
@@ -35257,7 +35289,7 @@
       }
     }
   },
-  "generated_at": "2026-06-25T17:13:53.081999+00:00",
+  "generated_at": "2026-06-26T17:03:31.138682+00:00",
   "other_bucket": "OtherSports",
   "repo": "timviderman/git-sweaty",
   "source": "strava",
